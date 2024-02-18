@@ -1,0 +1,19 @@
+body{
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(186, 198, 208);
+  
+}
+.slider {
+width:  500px;
+height: 500px;
+padding:10px; 
+margin: 10px;
+       
+}
+.sliderr {
+ display: flex;
+align-items: center;
+justify-content: center
+
+}
